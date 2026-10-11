@@ -10,6 +10,4 @@ html, body {
 
 @media (prefers-color-scheme: dark) {
     html, body { background: #1e1e1e; }
-    .clock { color: #eaeaea; }
-    .date { color: #888; }
 }
